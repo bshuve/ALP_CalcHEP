@@ -1,5 +1,5 @@
 # ALP_CalcHEP
-This respository contains CalcHEP model files for a model including a dark matter Dirac fermion ($\chi$) and an axion-like particle ($a$). The ALP couples to electroweak gauge bosons and to dark matter. This model follows the conventions of arXiv:2405.xyzab. Please cite this paper if you use this CalcHEP model.
+This respository contains CalcHEP model files for a model including a dark matter Dirac fermion ($\chi$) and an axion-like particle ($a$). The ALP couples to electroweak gauge bosons and to dark matter. This model follows the conventions of [arXiv:2405.02403](https://arxiv.org/abs/2405.02403). Please cite this paper if you use this CalcHEP model.
 
 ## Coupling conventions
 The couplings are defined according to the following Lagrangian,
